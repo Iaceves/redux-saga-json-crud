@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Josue",
+      "email": "josue@gmail.com",
+      "phone": "907878567",
+      "address": "USA1",
+      "id": 1
+    },
+    {
+      "name": "Ismael",
+      "email": "ismael@gmail.com",
+      "phone": "7805750136",
+      "address": "USA",
+      "id": 2
+    },
+    {
+      "name": "Pablo",
+      "email": "pablo@gmail.com",
+      "phone": "875755950",
+      "address": "USA3",
+      "id": 3
+    }
+  ]
+}
